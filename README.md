@@ -14,3 +14,5 @@
 📈 Interested in Data Science, Analytics, ML & Business Intelligence
 
 🎯 Open to Internship Opportunities
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitarya6312-dev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitarya6312-dev&layout=compact&theme=tokyonight)
