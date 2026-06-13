@@ -9,8 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-Data Analytics | Machine Learning | Business Intelligence | AI Applications
-- 📫 Reach me at: *(https://www.linkedin.com/in/mohit-kumar-3a02b6290/)*
+- 🎓 B.Tech CSE (AI & ML) Student
+- 📊 Building Data Analytics and Machine Learning Solutions
+- 🤖 Interested in Customer Intelligence, Predictive Modeling & AI Applications
+- 🛠️ Working with Python, SQL, Power BI and Streamlit
+- 🚀 Open to Data Analyst, AI/ML and Business Intelligence Internship Opportunities
+-<a href="https://www.linkedin.com/in/mohit-kumar-3a02b6290/" target="_blank">
 
 ---
 
