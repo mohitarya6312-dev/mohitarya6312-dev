@@ -9,10 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in CSE (AIML)**
-- 📊 Building projects in **Data Analytics, Customer Intelligence & Business Insights**
-- 💡 Passionate about turning raw data into meaningful decisions
-- 🤝 Open to **Internships** in Data Science, Analytics & ML
+Data Analytics | Machine Learning | Business Intelligence | AI Applications
 - 📫 Reach me at: *(https://www.linkedin.com/in/mohit-kumar-3a02b6290/)*
 
 ---
